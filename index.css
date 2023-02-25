@@ -1,0 +1,97 @@
+
+.main_content{
+    color: #A350A3;
+    background-color: #D97441;
+    text-align: left;
+}
+.login{
+    text-align: right;
+    padding-bottom: 1% ;
+    padding-right: 2%;
+}
+button:hover {
+    opacity: 0.8;
+}
+.sign_up{
+    border: 3px solid #B4D0E7;
+    color: black;
+    text-align: right;
+    vertical-align: top;
+}
+.uniqueness1{
+    background-color: #B4D0E7;
+    width: 50%;
+    text-align: left;
+}
+.uniqueness2{
+    background-color: #B4D0E7;
+    width: 50%;
+    text-align: right;
+}
+.uniqueness3{
+    background-color: #B4D0E7;
+    width: 50%;
+    text-align: left;
+}
+.uniqueness4{
+    background-color: #B4D0E7;
+    width: 50%;
+    text-align: right;
+}
+#email{
+        border-radius: 25px;
+        border: 2px solid lightcoral;
+        padding: 20px;
+        width: 35%;
+        height: 20%;
+        
+}
+#password {
+    border-radius: 25px;
+    border: 2px solid lightcoral;
+    padding: 20px;
+    width: 35%;
+    height: 20%;
+  }
+#fname{
+    border-radius: 25px;
+    border: 2px solid lightcoral;
+    padding: 20px;
+    width: 17%;
+    height: 20%;
+    border-radius: 15px;
+}
+#lname{
+    border-radius: 25px;
+    border: 2px solid lightcoral;
+    padding: 20px;
+    width: 17%;
+    height: 20%;
+    border-radius: 15px; 
+    
+}
+.image1{
+    height: min-content;
+}
+.title1{
+    padding-left: 9%;
+}
+.image2{
+    text-align: right;
+    height: min-content;
+}
+.title2{
+    padding-right: 9%;
+}
+.image3{
+    height: min-content;
+}
+.title3{
+    padding-left: 9%;
+}
+.image4{
+    height: min-content;
+}
+.title4{
+    padding-right: 9%;
+}
